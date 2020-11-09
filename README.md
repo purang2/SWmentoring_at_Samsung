@@ -3,6 +3,12 @@
 
 <img src="prezi1.png">
 
+<img src="A17.jpg">
+
+<img src="B0.jpg">
+
+<img src="B2.jpg">
+
 ## 1. 개요: 삼성전자 주소창(주니어 소프트웨어 창작대회) SW멘토 활동
 
 ▶ 2019 삼성전자 주니어 소프트웨어 창작대회란?
