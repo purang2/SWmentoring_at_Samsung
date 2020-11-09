@@ -77,6 +77,34 @@ SW 관련 대회 및 참가 유경험자
 
 <img src="A12.jpg">
 
+<img src="A13.jpg">
+
+<img src="A14.jpg">
+
+<img src="A15.jpg">
+
+<img src="A16.jpg">
+
+<img src="A18.jpg">
+
+---
+
+## 3. 삼성전자 나들이! (수원 사업부)
+
+<img src="C00.jpg">
+
+<img src="C1.jpg">
+
+<img src="C2.jpg">
+
+<img src="C3.jpg">
+
+<img src="C4.jpg">
+
+<img src="C5.jpg">
+
+<img src="C6.jpg">
+
 
 
 ---
