@@ -47,4 +47,38 @@ SW 관련 대회 및 참가 유경험자
 
 ---
 
+## 2. SW 멘토링 활동!
+
+<img src="B0.jpg">
+
+<img src="B1.jpg">
+
+<img src="B2.jpg">
+
+<img src="B3.jpg">
+
+<img src="B4.jpg">
+
+<img src="A1.jpg">
+
+<img src="A5.jpg">
+
+<img src="A6.jpg">
+
+<img src="A7.jpg">
+
+<img src="A8.jpg">
+
+<img src="A9.jpg">
+
+<img src="A10.jpg">
+
+<img src="A11.jpg">
+
+<img src="A12.jpg">
+
+
+
+---
+
 
